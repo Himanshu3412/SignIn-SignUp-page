@@ -11,6 +11,10 @@ The project consists of two main forms, the Sign In form and the Sign Up form, p
 - Smooth transitions and animations enhance user experience.
 - Social media login options for convenience.
 - Customizable styling for further personalization.
+## Preview
+![Screenshot 2024-05-21 111605](https://github.com/Himanshu3412/SignIn-SignUp-page/assets/163979859/b604ed8c-e140-4dff-897f-8be37daf7594)
+![Screenshot 2024-05-21 111659](https://github.com/Himanshu3412/SignIn-SignUp-page/assets/163979859/856370eb-e692-49b8-a475-c4d619a25442)
+
 ## Contributing
 
 Contributions to this project are welcome! Before contributing, please take a moment to review the following guidelines:
